@@ -4,7 +4,7 @@ def triangle(a):
 			for i in range (a):
 				print((i+1) * "#")
 		else:
-			print("pa")
+			print("Parameter harus angka dan Positif!")
 	else:	
-		print("Pa")
+		print("Parameter harus angka dan Positif!")
 x=input()
